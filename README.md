@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Davi Rodrigues and I'm a Front-end developer, from Brazil</p>
+<p align="left">My name is Davi Rodrigues and I'm trying to be a developer.</p>
 
 ###
 
-<h3 align="left">I'm On the second computer science's semester at college. Currently learning JS.</h3>
+<h3 align="left">I'm On the third computer science semester at college. Currently learning NodeJS, React and improving other habilities.</h3>
 
 ###
 
-<p align="left">✨ Developing since: 2023<br>📚 Learning: Currently JavaScript<br>🎯 Goals: Be a Front-end dev<br>🎲 Fun fact: The best friend you can have</p>
+<p align="left">✨ Developing since: 2023<br>📚 Learning: NodeJS, React, HTML, CSS, Tailwind<br>🎯 Goals: Be a good developer, being able to help my coworkers and colleagues<br></p>
 
 ###
 
