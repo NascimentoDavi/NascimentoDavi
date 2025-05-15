@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I'm On the third computer science semester at college. Currently learning NodeJS, React and improving other habilities.</h3>
+<h3 align="left">I'm On the fifith Computer Science semester at college. Currently learning Laravel and improving other habilities.</h3>
 
 ###
 
