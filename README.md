@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developing since: 2023<br>📚 Learning: NodeJS, React, HTML, CSS, Tailwind<br>🎯 Goals: Be a good developer, being able to help my coworkers and colleagues<br></p>
+<p align="left">✨ Developing since: 2023<br>📚 Laravel, JS, HTML, CSS<br>🎯 Goals: Be a good developer, being able to help my coworkers and colleagues<br></p>
 
 ###
 
